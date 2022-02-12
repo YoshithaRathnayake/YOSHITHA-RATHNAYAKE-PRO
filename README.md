@@ -1,7 +1,7 @@
 # <div align="center"><a href="https://yoshitharathnayake.github.io/YOSHITHA-RATHNAYAKE-PRO/"><b><i>WELCOME!, TO THE OFFICIAL WEBSITE OF YOSHITHA RATHNAYAKE PRO</i></b></a></div> 
 
 
-# <div align="center"><img src="images/Yoshitha Rathnayake 2.png" width="300px"></div>
+# <div align="center"><img src="images/YOSHITHA RATHNAYAKE PRO.png" width="300px"></div>
 
 #
 > This is My Official Web Site
