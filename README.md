@@ -24,8 +24,8 @@ Available at :  <b><i>[www.Yoshitha.tk](https://www.Yoshitha.tk)</i></b>
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/Yoshitha-Site.git
-    cd Yoshitha-Site
+    git clone https://github.com/USERNAME/YOSHITHA-RATHNAYAKE-PRO.git
+    cd YOSHITHA-RATHNAYAKE-PRO
     ```
      
 #
