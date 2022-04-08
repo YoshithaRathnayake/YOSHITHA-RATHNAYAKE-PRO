@@ -4,7 +4,7 @@
 # <div align="center"><img src="images/YOSHITHA RATHNAYAKE PRO.png" width="300px"></div>
 
 #
-> This is the Official Web Site of <a href="https://yoshitharathnayake.github.io/YOSHITHA-RATHNAYAKE-PRO/"><b><i>YOSHITHA RATHNAYAKE PRO</i></b></a>
+> This is the Official Website of <a href="https://yoshitharathnayake.github.io/YOSHITHA-RATHNAYAKE-PRO/"><b><i>YOSHITHA RATHNAYAKE PRO</i></b></a>
 
 > I made this Project when I was 13 years old (Grade 8D).
 
