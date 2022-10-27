@@ -17,7 +17,6 @@
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 <a href="https://www.w3schools.com/python/"><img src= "https://img.icons8.com/color/48/000000/python.png"/><a>
-<a href="https://www.w3schools.com/js/default.asp"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><a>
 <a href="https://www.w3schools.io/file/yaml-introduction/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/128px-Official_YAML_Logo.svg.png" style="width: 40px; height:40px;"><a>
 
 #
