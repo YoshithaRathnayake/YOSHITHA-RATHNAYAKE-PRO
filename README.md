@@ -13,7 +13,7 @@
 
 > Used Programming Languages (HTML, CSS, JavaScript, Bootstrap, YAML) 
 
-<style>
+<style type="text/css" rel="stylesheet">
 .yaml-logo {
     position: relative;  
     top: -7px;
