@@ -1,3 +1,9 @@
+<style type="text/css" rel="stylesheet">
+.yaml-logo {
+    position: relative;  
+    top: -7px;
+}
+</style>
 # <div align="center"><a href="https://yoshitharathnayake.github.io/YOSHITHA-RATHNAYAKE-PRO/"><b><i>WELCOME!, TO THE OFFICIAL WEBSITE OF YOSHITHA RATHNAYAKE PRO</i></b></a></div> 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
@@ -13,12 +19,7 @@
 
 > Used Programming Languages (HTML, CSS, JavaScript, Bootstrap, YAML) 
 
-<style type="text/css" rel="stylesheet">
-.yaml-logo {
-    position: relative;  
-    top: -7px;
-}
-</style>
+
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 <a href="https://www.tutorialspoint.com/yaml/index.htm"><img class="yaml-logo" width="42px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/></a>
