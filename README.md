@@ -17,19 +17,19 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/html/">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <a>    
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" align="middle"/>
+  </a>    
   <a href="https://www.w3schools.com/css/">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <a>    
+    <img src="https://img.icons8.com/color/48/000000/css3.png" align="middle"/>
+  </a>    
   <a href="https://www.w3schools.com/js/">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <a>    
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" align="middle"/>
+  </a>    
   <a href="https://www.w3schools.com/bootstrap/">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <a>
-  <a href="https://www.tutorialspoint.com/yaml/index.htm">
-    <img class="yaml-logo" width="42px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" align="middle"/>
+  </a>
+  <a href="https://www.tutorialspoint.com/yaml/index.htm" align="top">
+    <img class="yaml-logo" align="middle" width="38px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/>
   </a>
 </p>
     
