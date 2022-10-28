@@ -14,7 +14,7 @@
 > Used Programming Languages (HTML, CSS, JavaScript, Bootstrap, YAML) 
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
-<a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/></a>
+<a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/></a>
     
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
