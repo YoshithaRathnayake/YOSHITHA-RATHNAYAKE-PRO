@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" align="middle"/>
   </a>
   <a href="https://www.tutorialspoint.com/yaml/index.htm" align="top">
-    <img class="yaml-logo" align="middle" width="38px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" alt="Official YAML Logo.svg"/>
+    <img class="yaml-logo" align="middle" width="38px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png"/>
   </a>
 </p>
     
