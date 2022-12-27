@@ -15,7 +15,6 @@ The purpose of this Pull Request is to fix #<issue-number>
 <!---  This PR will be automatically deployed to surge. -->
 <!---  Once you submit the PR, replace "{PR_NUMBER}" with your PR number. -->
 https://pr-{PR_NUMBER}-YOSHITHA-RATHNAYAKE-PRO.surge.sh/
-<!---  Go to the Settings > Pages in your forked repository and select the correct branch and select the root folder. After that click the Save button and paste it in here. -->
 
 ##  Checklist
 - [x] This PR doesn't commit any keys, passwords, tokens, usernames, or other secrets.
